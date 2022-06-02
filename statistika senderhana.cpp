@@ -10,5 +10,5 @@ else if (b<mint) { mint = b;}
 else if (b>mak) {mak=b;}
 else {}
 }
-cout << mak <<" "<< mint << endl;
+cout << mak*mint << endl;
 }
